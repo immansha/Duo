@@ -1,13 +1,10 @@
-#Duo Drift — Personal Band Website
+Duo Drift — Personal Band Website
 
-> A bold, interactive, and immersive frontend website for our band **Echo Drift** — built using modern HTML, CSS, JS and scroll animations.  
-> Designed with soul. Coded with rhythm. Deployed for the world.
+A bold, interactive, and immersive frontend website for our band **Echo Drift** — built using modern HTML, CSS, JS and scroll animations.  
+Designed with soul. Coded with rhythm. Deployed for the world.
 
----
-
-##About the Project
-
-**Echo Drift** is a personal portfolio site crafted for a band with a vision.  
+About the Project
+Duo Drift is a personal portfolio site crafted for a band with a vision.  
 We adapted a creative agency template and transformed it into a digital home that:
 
 - Tells our story  
@@ -19,7 +16,7 @@ We adapted a creative agency template and transformed it into a digital home tha
 ---
 
 
-##Features
+Features
 
 - 🎞️ Video hero section with smooth scroll effects
 - 📱 Fully responsive design (mobile, tablet, desktop)
@@ -29,7 +26,7 @@ We adapted a creative agency template and transformed it into a digital home tha
 - 📷 Gallery-style interactive visuals
 - 📩 Newsletter signup box
 - 🔗 Social media integration (Spotify, Instagram, YouTube)
-- ⚡ Powered by **GSAP** + **Locomotive Scroll**
+- ⚡ Powered by GSAP + Locomotive Scroll
 
 ---
 
